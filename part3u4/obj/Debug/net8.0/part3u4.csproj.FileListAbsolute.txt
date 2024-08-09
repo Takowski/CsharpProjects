@@ -1,0 +1,14 @@
+/Users/scz/CsharpProjects/part3u4/bin/Debug/net8.0/part3u4
+/Users/scz/CsharpProjects/part3u4/bin/Debug/net8.0/part3u4.deps.json
+/Users/scz/CsharpProjects/part3u4/bin/Debug/net8.0/part3u4.runtimeconfig.json
+/Users/scz/CsharpProjects/part3u4/bin/Debug/net8.0/part3u4.dll
+/Users/scz/CsharpProjects/part3u4/bin/Debug/net8.0/part3u4.pdb
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.AssemblyInfo.cs
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.dll
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/refint/part3u4.dll
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.pdb
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.genruntimeconfig.cache
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/ref/part3u4.dll
