@@ -12,3 +12,4 @@
 /Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.pdb
 /Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.genruntimeconfig.cache
 /Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/ref/part3u4.dll
+/Users/scz/CsharpProjects/part3u4/obj/Debug/net8.0/part3u4.sourcelink.json
