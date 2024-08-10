@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/p3switch/bin/Debug/net8.0/p3switch
+/Users/scz/CsharpProjects/p3switch/bin/Debug/net8.0/p3switch.deps.json
+/Users/scz/CsharpProjects/p3switch/bin/Debug/net8.0/p3switch.runtimeconfig.json
+/Users/scz/CsharpProjects/p3switch/bin/Debug/net8.0/p3switch.dll
+/Users/scz/CsharpProjects/p3switch/bin/Debug/net8.0/p3switch.pdb
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.AssemblyInfo.cs
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.sourcelink.json
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.dll
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/refint/p3switch.dll
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.pdb
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/p3switch.genruntimeconfig.cache
+/Users/scz/CsharpProjects/p3switch/obj/Debug/net8.0/ref/p3switch.dll

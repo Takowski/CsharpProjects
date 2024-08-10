@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3switch", "p3switch/p3switch.csproj", "{990472F2-45BA-404D-9960-8CC9E37E7C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part3u4", "part3u4/part3u4.csproj", "{F4AB14E2-7356-4CA4-B58F-D14BA0295DAF}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {990472F2-45BA-404D-9960-8CC9E37E7C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {990472F2-45BA-404D-9960-8CC9E37E7C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {990472F2-45BA-404D-9960-8CC9E37E7C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {990472F2-45BA-404D-9960-8CC9E37E7C53}.Release|Any CPU.Build.0 = Release|Any CPU
+        {F4AB14E2-7356-4CA4-B58F-D14BA0295DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {F4AB14E2-7356-4CA4-B58F-D14BA0295DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {F4AB14E2-7356-4CA4-B58F-D14BA0295DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {F4AB14E2-7356-4CA4-B58F-D14BA0295DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
