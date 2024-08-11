@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/p3for/bin/Debug/net8.0/p3for
+/Users/scz/CsharpProjects/p3for/bin/Debug/net8.0/p3for.deps.json
+/Users/scz/CsharpProjects/p3for/bin/Debug/net8.0/p3for.runtimeconfig.json
+/Users/scz/CsharpProjects/p3for/bin/Debug/net8.0/p3for.dll
+/Users/scz/CsharpProjects/p3for/bin/Debug/net8.0/p3for.pdb
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.AssemblyInfo.cs
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.sourcelink.json
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.dll
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/refint/p3for.dll
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.pdb
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/p3for.genruntimeconfig.cache
+/Users/scz/CsharpProjects/p3for/obj/Debug/net8.0/ref/p3for.dll
