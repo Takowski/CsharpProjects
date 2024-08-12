@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/p3while/bin/Debug/net8.0/p3while
+/Users/scz/CsharpProjects/p3while/bin/Debug/net8.0/p3while.deps.json
+/Users/scz/CsharpProjects/p3while/bin/Debug/net8.0/p3while.runtimeconfig.json
+/Users/scz/CsharpProjects/p3while/bin/Debug/net8.0/p3while.dll
+/Users/scz/CsharpProjects/p3while/bin/Debug/net8.0/p3while.pdb
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.AssemblyInfo.cs
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.sourcelink.json
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.dll
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/refint/p3while.dll
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.pdb
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/p3while.genruntimeconfig.cache
+/Users/scz/CsharpProjects/p3while/obj/Debug/net8.0/ref/p3while.dll
