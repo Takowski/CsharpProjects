@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p3while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f3393380ee1b304a87b5fd2bac8271c29e3fbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed8c27d6f8a301beaeda75e53b92d17bdd633fc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("p3while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p3while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
