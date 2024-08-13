@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p3switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed8c27d6f8a301beaeda75e53b92d17bdd633fc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0217175edc7a679722bb0dfffd5281bff3a6ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("p3switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p3switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
