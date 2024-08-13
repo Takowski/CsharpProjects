@@ -22,13 +22,6 @@ do
             Console.WriteLine($"The role name that you entered, \"{roleEntry}\" is not valid. Enter your role name (Administrator, Manager, or User)");
         }
     }
-    else
-    {
-        validEntry = false;
-    }
-
-
-
 
 }
 while (!validEntry);
