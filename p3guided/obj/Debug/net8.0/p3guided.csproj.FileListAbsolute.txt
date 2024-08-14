@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/p3guided/bin/Debug/net8.0/p3guided
+/Users/scz/CsharpProjects/p3guided/bin/Debug/net8.0/p3guided.deps.json
+/Users/scz/CsharpProjects/p3guided/bin/Debug/net8.0/p3guided.runtimeconfig.json
+/Users/scz/CsharpProjects/p3guided/bin/Debug/net8.0/p3guided.dll
+/Users/scz/CsharpProjects/p3guided/bin/Debug/net8.0/p3guided.pdb
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.AssemblyInfo.cs
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.sourcelink.json
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.dll
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/refint/p3guided.dll
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.pdb
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/p3guided.genruntimeconfig.cache
+/Users/scz/CsharpProjects/p3guided/obj/Debug/net8.0/ref/p3guided.dll

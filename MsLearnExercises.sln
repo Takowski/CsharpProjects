@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3challenge3", "p3challenge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3challenge4", "p3challenge4\p3challenge4.csproj", "{EFBBF433-4C70-4C35-9B01-06C42DD42814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3guided", "p3guided\p3guided.csproj", "{A9D7375F-056E-4231-BC81-83E1B9AAD6BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,9 @@ Global
 		{EFBBF433-4C70-4C35-9B01-06C42DD42814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBBF433-4C70-4C35-9B01-06C42DD42814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBBF433-4C70-4C35-9B01-06C42DD42814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D7375F-056E-4231-BC81-83E1B9AAD6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D7375F-056E-4231-BC81-83E1B9AAD6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D7375F-056E-4231-BC81-83E1B9AAD6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D7375F-056E-4231-BC81-83E1B9AAD6BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
