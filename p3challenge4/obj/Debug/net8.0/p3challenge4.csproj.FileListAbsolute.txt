@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/p3challenge4/bin/Debug/net8.0/p3challenge4
+/Users/scz/CsharpProjects/p3challenge4/bin/Debug/net8.0/p3challenge4.deps.json
+/Users/scz/CsharpProjects/p3challenge4/bin/Debug/net8.0/p3challenge4.runtimeconfig.json
+/Users/scz/CsharpProjects/p3challenge4/bin/Debug/net8.0/p3challenge4.dll
+/Users/scz/CsharpProjects/p3challenge4/bin/Debug/net8.0/p3challenge4.pdb
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.AssemblyInfo.cs
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.sourcelink.json
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.dll
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/refint/p3challenge4.dll
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.pdb
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/p3challenge4.genruntimeconfig.cache
+/Users/scz/CsharpProjects/p3challenge4/obj/Debug/net8.0/ref/p3challenge4.dll
