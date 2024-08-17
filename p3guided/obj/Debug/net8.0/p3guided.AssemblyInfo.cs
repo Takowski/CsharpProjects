@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p3guided")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f96e7bfd138ae5e107e5c5dfc854a12f58f52d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4954241730ee8c515bde0cef27c60bec71515d68")]
 [assembly: System.Reflection.AssemblyProductAttribute("p3guided")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p3guided")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

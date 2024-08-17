@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p3challenge3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15c022bb6e94ae786761b6c56d4368f4563a1cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4954241730ee8c515bde0cef27c60bec71515d68")]
 [assembly: System.Reflection.AssemblyProductAttribute("p3challenge3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p3challenge3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
