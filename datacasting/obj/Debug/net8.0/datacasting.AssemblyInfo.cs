@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("datacasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2112dd35d83dc4fcc72f083c3053bd97bc0e1b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bee11d1043b405af5d6266dd4d14609389055105")]
 [assembly: System.Reflection.AssemblyProductAttribute("datacasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("datacasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

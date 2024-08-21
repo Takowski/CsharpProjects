@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.AssemblyInfo.cs
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.sourcelink.json
+/Users/scz/CsharpProjects/datacasting/bin/Debug/net8.0/datacasting
+/Users/scz/CsharpProjects/datacasting/bin/Debug/net8.0/datacasting.deps.json
+/Users/scz/CsharpProjects/datacasting/bin/Debug/net8.0/datacasting.runtimeconfig.json
+/Users/scz/CsharpProjects/datacasting/bin/Debug/net8.0/datacasting.dll
+/Users/scz/CsharpProjects/datacasting/bin/Debug/net8.0/datacasting.pdb
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.dll
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/refint/datacasting.dll
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.pdb
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/datacasting.genruntimeconfig.cache
+/Users/scz/CsharpProjects/datacasting/obj/Debug/net8.0/ref/datacasting.dll
