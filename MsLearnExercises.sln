@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3guided", "p3guided\p3guid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datacasting", "datacasting\datacasting.csproj", "{F44A63A6-4EE7-4020-B314-F65EF34C6415}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{30B7C9CF-26E9-41BD-99D5-47A3965DB71C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,5 +67,9 @@ Global
 		{F44A63A6-4EE7-4020-B314-F65EF34C6415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F44A63A6-4EE7-4020-B314-F65EF34C6415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F44A63A6-4EE7-4020-B314-F65EF34C6415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B7C9CF-26E9-41BD-99D5-47A3965DB71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B7C9CF-26E9-41BD-99D5-47A3965DB71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B7C9CF-26E9-41BD-99D5-47A3965DB71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B7C9CF-26E9-41BD-99D5-47A3965DB71C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

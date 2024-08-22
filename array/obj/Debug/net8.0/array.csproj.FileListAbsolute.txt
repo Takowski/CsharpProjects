@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/array/bin/Debug/net8.0/array
+/Users/scz/CsharpProjects/array/bin/Debug/net8.0/array.deps.json
+/Users/scz/CsharpProjects/array/bin/Debug/net8.0/array.runtimeconfig.json
+/Users/scz/CsharpProjects/array/bin/Debug/net8.0/array.dll
+/Users/scz/CsharpProjects/array/bin/Debug/net8.0/array.pdb
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.AssemblyInfo.cs
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.sourcelink.json
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.dll
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/refint/array.dll
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.pdb
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/array.genruntimeconfig.cache
+/Users/scz/CsharpProjects/array/obj/Debug/net8.0/ref/array.dll
