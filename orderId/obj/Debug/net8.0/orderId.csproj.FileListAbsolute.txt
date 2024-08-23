@@ -1,0 +1,15 @@
+/Users/scz/CsharpProjects/orderId/bin/Debug/net8.0/orderId
+/Users/scz/CsharpProjects/orderId/bin/Debug/net8.0/orderId.deps.json
+/Users/scz/CsharpProjects/orderId/bin/Debug/net8.0/orderId.runtimeconfig.json
+/Users/scz/CsharpProjects/orderId/bin/Debug/net8.0/orderId.dll
+/Users/scz/CsharpProjects/orderId/bin/Debug/net8.0/orderId.pdb
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.AssemblyInfoInputs.cache
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.AssemblyInfo.cs
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.csproj.CoreCompileInputs.cache
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.sourcelink.json
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.dll
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/refint/orderId.dll
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.pdb
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/orderId.genruntimeconfig.cache
+/Users/scz/CsharpProjects/orderId/obj/Debug/net8.0/ref/orderId.dll
