@@ -1,5 +1,2 @@
-﻿string value = "abc123";
-char[] valueArray = value.ToCharArray();
-Array.Reverse(valueArray);
-string result = new string(valueArray);
-Console.WriteLine(result);
+﻿string pangram = "The quick brown fox jumps over the lazy dog";
+
